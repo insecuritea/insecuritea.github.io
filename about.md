@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am an Information Security Enthusiast! Specifically focussed on Application Security. 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+This blog will be for people who want to learn about reverse engineering, malware analysis etc. Occasionally I will also post about specfic events which are important for Information Security Domain.
 
 ### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[@insecur1tea](https://twitter.com/insecur1tea)
